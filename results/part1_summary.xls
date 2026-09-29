@@ -1,0 +1,6 @@
+,Paper Table 12 (Acc),Paper Fig.7 recomputed (Acc),Exp 1A (Acc),Exp 1A (F1),Exp 1B (Acc),Exp 1B (F1),Exp 1B (AUC)
+XGBoost,93,92.9,86.3,86.3,69.4,50.3,81.5
+RF,91,90.8,84.0,83.8,66.5,50.7,81.5
+CatBoost,89,87.7,83.7,83.6,69.4,50.8,81.8
+GradientBoost,88,86.6,70.9,70.8,67.0,51.4,81.8
+KNN,82,81.7,80.7,78.9,42.9,36.3,68.9

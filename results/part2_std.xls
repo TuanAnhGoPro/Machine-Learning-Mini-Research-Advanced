@@ -1,0 +1,9 @@
+,Accuracy,Precision,Recall,F1,AUC,BalancedAcc,MCC
+RF | Baseline-PW,1.17,2.38,2.11,2.19,1.1,2.11,1.91
+RF | Proposed,0.97,1.16,2.58,1.51,0.56,2.58,1.68
+RF | Proposed-CW,0.9,2.08,1.82,1.84,0.72,1.82,1.39
+RF | Combined,0.96,1.73,2.55,1.9,0.57,2.55,1.64
+XGBoost | Baseline-PW,1.51,3.42,2.3,2.53,0.94,2.3,2.45
+XGBoost | Proposed,1.22,2.33,2.88,2.46,0.82,2.88,2.19
+XGBoost | Proposed-CW,0.91,1.42,2.53,1.83,0.73,2.53,1.63
+XGBoost | Combined,0.82,1.95,1.91,1.77,0.87,1.91,1.46

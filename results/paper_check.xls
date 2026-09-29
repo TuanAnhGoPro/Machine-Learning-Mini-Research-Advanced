@@ -1,0 +1,6 @@
+Model,Test size,Samples per class,Acc (Fig.7),Prec (Fig.7),Rec (Fig.7),F1 (Fig.7),Acc (Table 12),Rec (Table 12),NORM recall (Fig.7)
+KNN,9083,"[np.int64(1854), np.int64(1809), np.int64(1787), np.int64(1796), np.int64(1837)]",81.7,83.0,82.0,78.1,82,82,22.3
+RF,9083,"[np.int64(1829), np.int64(1793), np.int64(1848), np.int64(1829), np.int64(1784)]",90.8,91.0,90.8,90.9,91,92,86.3
+XGBoost,9083,"[np.int64(1829), np.int64(1793), np.int64(1848), np.int64(1829), np.int64(1784)]",92.9,93.5,92.9,93.0,93,90,93.8
+GradientBoost,9083,"[np.int64(1854), np.int64(1809), np.int64(1787), np.int64(1796), np.int64(1837)]",86.6,87.1,86.6,86.7,88,87,87.6
+CatBoost,9083,"[np.int64(1854), np.int64(1809), np.int64(1787), np.int64(1796), np.int64(1837)]",87.7,88.2,87.7,87.8,89,86,87.4

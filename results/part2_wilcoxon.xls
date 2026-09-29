@@ -1,0 +1,25 @@
+Model,Config vs Baseline-PW,Metric,Mean gain (pts),Folds improved,Wilcoxon p
+RF,Proposed,F1,18.4391,10/10,0.001
+RF,Proposed,AUC,11.5689,10/10,0.001
+RF,Proposed,BalancedAcc,20.2047,10/10,0.001
+RF,Proposed,MCC,18.8086,10/10,0.001
+RF,Proposed-CW,F1,14.5859,10/10,0.001
+RF,Proposed-CW,AUC,11.7681,10/10,0.001
+RF,Proposed-CW,BalancedAcc,9.8253,10/10,0.001
+RF,Proposed-CW,MCC,17.6241,10/10,0.001
+RF,Combined,F1,17.4298,10/10,0.001
+RF,Combined,AUC,11.0377,10/10,0.001
+RF,Combined,BalancedAcc,18.7231,10/10,0.001
+RF,Combined,MCC,17.6921,10/10,0.001
+XGBoost,Proposed,F1,21.3926,10/10,0.001
+XGBoost,Proposed,AUC,12.258,10/10,0.001
+XGBoost,Proposed,BalancedAcc,21.7266,10/10,0.001
+XGBoost,Proposed,MCC,20.8841,10/10,0.001
+XGBoost,Proposed-CW,F1,21.9306,10/10,0.001
+XGBoost,Proposed-CW,AUC,12.4156,10/10,0.001
+XGBoost,Proposed-CW,BalancedAcc,23.2714,10/10,0.001
+XGBoost,Proposed-CW,MCC,21.1781,10/10,0.001
+XGBoost,Combined,F1,20.8547,10/10,0.001
+XGBoost,Combined,AUC,12.3859,10/10,0.001
+XGBoost,Combined,BalancedAcc,20.7295,10/10,0.001
+XGBoost,Combined,MCC,20.2674,10/10,0.001

@@ -1,0 +1,7 @@
+,Baseline-PW,Baseline-PW,Baseline-PW,Baseline-PW,Baseline-PW,Proposed,Proposed,Proposed,Proposed,Proposed
+,Precision,Recall,F1,AUC,Support,Precision,Recall,F1,AUC,Support
+NORM (0),0.755,0.887,0.816,0.847,9069,0.851,0.899,0.875,0.93,9069
+MI (1),0.546,0.394,0.458,0.784,2532,0.748,0.705,0.726,0.942,2532
+STTC (2),0.541,0.512,0.526,0.861,2400,0.717,0.712,0.714,0.944,2400
+HYP (3),0.325,0.069,0.114,0.706,535,0.516,0.447,0.479,0.925,535
+CD (4),0.659,0.528,0.586,0.867,1708,0.85,0.714,0.776,0.935,1708

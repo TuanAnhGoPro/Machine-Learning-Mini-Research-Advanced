@@ -1,0 +1,6 @@
+Class,Real test samples,Recall on REAL (%),Synthetic test samples,Recall on SYNTHETIC (%)
+NORM,1814,88.4,0,
+MI,511,56.8,1302,84.9
+STTC,508,62.8,1306,90.9
+HYP,105,48.6,1709,97.4
+CD,335,66.3,1479,93.8

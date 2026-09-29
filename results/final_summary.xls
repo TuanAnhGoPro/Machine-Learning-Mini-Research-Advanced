@@ -1,0 +1,9 @@
+Setting,Protocol,Accuracy,Precision,Recall,F1,AUC
+Paper – Table 12 (XGBoost),as reported,93.0,92.0,90.0,93.0,
+Paper – recomputed from Fig. 7 (XGBoost),SMOTE before split,92.9,93.5,92.9,93.0,
+Exp 1A – reproduced (XGBoost),"SMOTE before split, record-wise",86.3,86.6,86.3,86.3,97.6
+Exp 1B – reproduced (XGBoost),"10-fold, SMOTE in fold, record-wise",69.4,57.4,48.2,50.3,81.5
+Part 2 – Baseline-PW (XGBoost),"10-fold patient-wise, SMOTE in fold",69.0,56.1,47.8,49.9,81.3
+Part 2 – Proposed (XGBoost),"10-fold patient-wise, SMOTE in fold",80.7,73.6,69.5,71.3,93.6
+Part 2 – Proposed-CW (XGBoost),"10-fold patient-wise, class weights (no SMOTE)",80.6,73.0,71.1,71.8,93.7
+Part 2 – Combined (XGBoost),"10-fold patient-wise, SMOTE in fold",80.4,73.7,68.5,70.8,93.7

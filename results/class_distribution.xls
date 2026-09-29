@@ -1,0 +1,6 @@
+,Paper Table 3,Single-label (ours),Share (%)
+NORM,9528,9069,55.8
+MI,5486,2532,15.6
+STTC,5250,2400,14.8
+HYP,2655,535,3.3
+CD,4907,1708,10.5
