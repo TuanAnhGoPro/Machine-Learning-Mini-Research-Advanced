@@ -108,6 +108,4 @@ The proposed method beats the baseline on all 10 folds (one-sided Wilcoxon p = 0
 
 **`results/`**: `paper_check.csv`, `class_distribution.csv`, `exp1a_overall.csv`, `exp1a_vs_paper.csv`, `exp1a_leakage.csv`, `exp1b_mean.csv`, `exp1b_std.csv`, `exp1b_per_class_XGBoost.csv`, `part1_summary.csv`, `part2_mean.csv`, `part2_std.csv`, `part2_wilcoxon.csv`, `part2_per_class.csv`, `part2_top20_features.csv`, `final_summary.csv`, plus per-class tables for every model in Exp 1A.
 
-## 8. GenAI acknowledgement
 
-I used Claude (Anthropic) to help plan the notebook structure, draft and debug parts of the code, and explain some concepts. I ran every experiment myself, checked all the numbers against my own outputs, and I understand and can explain every part of the code.
