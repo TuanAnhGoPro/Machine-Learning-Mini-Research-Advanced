@@ -109,3 +109,9 @@ The proposed method beats the baseline on all 10 folds (one-sided Wilcoxon p = 0
 **`results/`**: `paper_check.csv`, `class_distribution.csv`, `exp1a_overall.csv`, `exp1a_vs_paper.csv`, `exp1a_leakage.csv`, `exp1b_mean.csv`, `exp1b_std.csv`, `exp1b_per_class_XGBoost.csv`, `part1_summary.csv`, `part2_mean.csv`, `part2_std.csv`, `part2_wilcoxon.csv`, `part2_per_class.csv`, `part2_top20_features.csv`, `final_summary.csv`, plus per-class tables for every model in Exp 1A.
 
 
+## 8.GenAI Acknowledgement:
+In order to comply with the academic integrity regulations at Deakin University, I would like to acknowledge the use of AI in this report as follows:
+
+Claude (Anthropic) was used by me in the brainstorming phase, designing the framework and structure of the report following the assignment instructions. I also used it to support and compare problematic code and output data to ensure consistency in the writing.
+
+I wrote the analytical sections, interpreting the corresponding charts and discussions on the topic, all based on my own experimental results and research. Specifically, the selection of the report, the experiments to replicate the research (1A), the proposed research applying experiment 1B, and the patient evaluation process were all run and executed by me in the program to compare and record my work. Every aspect of the AI ​​suggestions has been carefully considered, compared with my own operational output, and followed precisely what I observed and analyzed in my own work. I fully guarantee that this paper is the result of thorough research, implementation, and data comparison, and that AI was used only within the permitted scope of the course.
